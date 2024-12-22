@@ -1,3 +1,4 @@
+// Public domain, Stephane Duguay s@binarez.com, dec 2024
 namespace l
 {
     namespace o
